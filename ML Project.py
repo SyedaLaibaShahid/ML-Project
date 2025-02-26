@@ -114,3 +114,18 @@ for i, metric in enumerate(metrics):
 plt.tight_layout()
 plt.subplots_adjust(top=0.9)  # To give space for the main title
 plt.show()
+
+
+
+
+
+
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
